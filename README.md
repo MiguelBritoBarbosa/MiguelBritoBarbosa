@@ -4,7 +4,7 @@
 - 💎 Desenvolvedor Full-Stack.
 - 💻 Estudo Python, PHP, JavaScript, NodeJs,
 HTML, CSS, Bootstrap, MySQL, MongoDB, C# e GitHub.
-- 📚 Futuros Estudos: Java, Desenvolvimento Android com Kotlin
+- 📚 Futuros Estudos: Java, Desenvolvimento Android com Kotlin, ReactJs e Django
 ##
 
 <div align="center">
