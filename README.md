@@ -17,8 +17,6 @@ HTML, CSS, Bootstrap, MySQL, MongoDB, C# e GitHub.
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Miguel-Python" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
-  <img align="center" alt="Miguel-Jupyter" width="35" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align="center" alt="Miguel-OpenCV" width="35" src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg">
   <img align="center" alt="Miguel-PHP" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Miguel-MySQL" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Miguel-MongoDB" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg">
