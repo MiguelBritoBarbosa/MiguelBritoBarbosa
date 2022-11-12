@@ -4,7 +4,7 @@
 - 💎 Desenvolvedor Full-Stack.
 - 💻 Estudo Python, PHP, JavaScript, NodeJs,
 HTML, CSS, Bootstrap, MySQL, MongoDB, C# e GitHub.
-- 📚 Futuros Estudos: Java, Desenvolvimento Android com Kotlin, ReactJs, TypeScript e Django
+- 📚 Futuros Estudos: Java, Desenvolvimento Android com Kotlin, ReactJs, TypeScript, NextJs e Django
 ##
 
 <div align="center">
@@ -34,6 +34,10 @@ HTML, CSS, Bootstrap, MySQL, MongoDB, C# e GitHub.
   <img align="center" alt="Miguel-Java" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Miguel-Android" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg">
   <img align="center" alt="Miguel-Kotlin" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg">
+  <img align="center" alt="Miguel-React" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
+  <img align="center" alt="Miguel-Ts" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Miguel-NextJs" width="35" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Miguel-Django" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg">
   <img align="right" alt="Miguel-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/825383645166174230/1029767053038587985/unknown.png?width=676&height=676">
 </div>
 
