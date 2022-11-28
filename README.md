@@ -2,7 +2,7 @@
 
 
 - 💎 Desenvolvedor Full-Stack.
-- 💻 Estudo Python, PHP, JavaScript, NodeJs,
+- 💻 Estudo Python, PHP, Laravel, JavaScript, NodeJs,
 HTML, CSS, Bootstrap, MySQL, MongoDB, C# e GitHub.
 - 📚 Futuros Estudos: Java, Desenvolvimento Android com Kotlin, ReactJs, TypeScript, NextJs e Django
 ##
@@ -18,6 +18,7 @@ HTML, CSS, Bootstrap, MySQL, MongoDB, C# e GitHub.
 <div style="display: inline_block"><br>
   <img align="center" alt="Miguel-Python" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
   <img align="center" alt="Miguel-PHP" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Miguel-Laravel" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg">
   <img align="center" alt="Miguel-MySQL" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Miguel-MongoDB" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg">
   <img align="center" alt="Miguel-Js" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
