@@ -2,7 +2,7 @@
 
 
 - 💎 Desenvolvedor Full-Stack.
-- 💻 Estudo Python, PHP, JavaScript, NodeJs,
+- 💻 Estudo Python, PHP, WebPack, JavaScript, NodeJs,
 HTML, CSS, Bootstrap, MySQL, MongoDB, C# e GitHub.
 - 📚 Futuros Estudos: Java, Desenvolvimento Android com Kotlin, ReactJs, TypeScript, NextJs e Django
 ##
@@ -18,13 +18,11 @@ HTML, CSS, Bootstrap, MySQL, MongoDB, C# e GitHub.
 <div style="display: inline_block"><br>
   <img align="center" alt="Miguel-Python" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
   <img align="center" alt="Miguel-PHP" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-
+  <img align="center" alt="Miguel-webpack" width="35" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg">
   <img align="center" alt="Miguel-MySQL" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Miguel-MongoDB" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg">
   <img align="center" alt="Miguel-Js" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Miguel-Node" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
-  <img align="center" alt="Miguel-HTML" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Miguel-CSS" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Miguel-Bootstrap" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
   <img align="center" alt="Miguel-C#" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Miguel-GitHub" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg">
