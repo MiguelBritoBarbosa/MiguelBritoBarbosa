@@ -2,7 +2,7 @@
 
 
 - 💎 Desenvolvedor Full-Stack.
-- 💻 Estudo TypeScript, NextJs, PHP, Python, C#, WebPack, JavaScript, NodeJs, ReactJs,
+- 💻 Estudo TypeScript, NextJs, PHP, Laravel, Python, C#, WebPack, JavaScript, NodeJs, ReactJs,
 HTML, CSS, Bootstrap, MySQL, MongoDB, Java, Desenvolvimento Android com Kotlin, C# e Git/GitHub.
 - 📚 Futuros Estudos: Django
 ##
@@ -17,8 +17,9 @@ HTML, CSS, Bootstrap, MySQL, MongoDB, Java, Desenvolvimento Android com Kotlin, 
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Miguel-Ts" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Miguel-NextJs" width="35" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Miguel-NextJs" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Miguel-PHP" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Miguel-Laravel" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg">
   <img align="center" alt="Miguel-Python" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
   <img align="center" alt="Miguel-C#" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Miguel-webpack" width="35" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg">
