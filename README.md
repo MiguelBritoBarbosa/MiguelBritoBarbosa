@@ -2,9 +2,8 @@
 
 
 - 💎 Desenvolvedor Full-Stack.
-- 💻 Estudo TypeScript, NextJs, PHP, Laravel, Python, C#, WebPack, JavaScript, NodeJs, ReactJs,
+- 💻 Estudo TypeScript, NextJs, PHP, Laravel, Python, C#, JavaScript, NodeJs, ReactJs,
 HTML, CSS, Bootstrap, MySQL, MongoDB, Java, Desenvolvimento Android com Kotlin, C# e Git/GitHub.
-- 📚 Futuros Estudos: Django
 ##
 
 <div align="center">
@@ -23,7 +22,6 @@ HTML, CSS, Bootstrap, MySQL, MongoDB, Java, Desenvolvimento Android com Kotlin, 
   <img align="center" alt="Miguel-C#" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Miguel-PHP" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Miguel-Laravel" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg">
-  <img align="center" alt="Miguel-webpack" width="35" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg">
   <img align="center" alt="Miguel-MySQL" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Miguel-MongoDB" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg">
   <img align="center" alt="Miguel-Js" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
