@@ -2,8 +2,8 @@
 
 
 - 💎 Desenvolvedor Full-Stack.
-- 💻 Estudo TypeScript, NextJs, Python, Django, PHP, Laravel, C#, JavaScript, NodeJs, ReactJs,
-HTML, CSS, Bootstrap, MySQL, MongoDB, Java, Desenvolvimento Android com Kotlin, C# e Git/GitHub.
+- 💻 Estudo TypeScript, NextJs, Python, Django, PHP, Laravel, C#, ReactJs,
+HTML, CSS, Bootstrap, MySQL, Java, Desenvolvimento Android com Kotlin, e Git/GitHub.
 ##
 
 <div align="center">
@@ -23,14 +23,9 @@ HTML, CSS, Bootstrap, MySQL, MongoDB, Java, Desenvolvimento Android com Kotlin, 
   <img align="center" alt="Miguel-PHP" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Miguel-Laravel" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg">
   <img align="center" alt="Miguel-MySQL" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Miguel-MongoDB" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg">
-  <img align="center" alt="Miguel-Js" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Miguel-Node" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" alt="Miguel-React" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
   <img align="center" alt="Miguel-Bootstrap" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
   <img align="center" alt="Miguel-GitHub" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg">
-  <img align="center" alt="Miguel-VisualStudio" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
-  <img align="center" alt="Miguel-VsCode" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Miguel-Java" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Miguel-Android" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg">
   <img align="center" alt="Miguel-Kotlin" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg">
