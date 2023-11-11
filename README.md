@@ -29,14 +29,16 @@ HTML, CSS, Bootstrap, MySQL, Java, Desenvolvimento Android com Kotlin, e Git/Git
   <img align="center" alt="Miguel-Java" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Miguel-Android" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg">
   <img align="center" alt="Miguel-Kotlin" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg">
-  <img align="right" alt="Miguel-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/825383645166174230/1029767053038587985/unknown.png?width=676&height=676">
+  
+  ![meu banner](https://github.com/MiguelBritoBarbosa/MiguelBritoBarbosa/assets/107328582/d61b5816-d0b5-4b85-a16a-10eb51633584)
+
 </div>
 
   ##
   
   <div>
     <a href="https://instagram.com/itz_.preto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href = "mailto:miguelbrito2005@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<!--     <a href = "https://miguelbritobarbosa.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> -->
   <a href="https://www.linkedin.com/in/miguel-brito-barbosa-4bba31234" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
   
