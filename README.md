@@ -2,7 +2,7 @@
 
 
 - 💎 Desenvolvedor Full-Stack.
-- 💻 Estudo TypeScript, NextJs, Python, Django, C#, PHP, Laravel, ReactJs,
+- 💻 Estudo TypeScript, NextJs, Python, Django, C#, .NET, PHP, Laravel, ReactJs,
 HTML, CSS, Bootstrap, MySQL, Java, Desenvolvimento Android com Kotlin, e Git/GitHub.
 ##
 
@@ -12,27 +12,32 @@ HTML, CSS, Bootstrap, MySQL, Java, Desenvolvimento Android com Kotlin, e Git/Git
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelBritoBarbosa&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
-
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Miguel-Ts" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Miguel-NextJs" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Miguel-Python" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
-  <img align="center" alt="Miguel-Django" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg">
-  <img align="center" alt="Miguel-C#" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Miguel-PHP" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Miguel-Laravel" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg">
-  <img align="center" alt="Miguel-MySQL" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Miguel-React" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
-  <img align="center" alt="Miguel-Bootstrap" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
-  <img align="center" alt="Miguel-GitHub" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg">
-  <img align="center" alt="Miguel-Java" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Miguel-Android" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg">
-  <img align="center" alt="Miguel-Kotlin" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg">
-  
-  ![meu banner](https://github.com/MiguelBritoBarbosa/MiguelBritoBarbosa/assets/107328582/d61b5816-d0b5-4b85-a16a-10eb51633584)
 
-</div>
+> [!TIP]
+> 
+> <div style="display: inline_block; background-color: '#ffffff`"><br>
+>   <img align="center" alt="Miguel-Ts" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+>   <img align="center" alt="Miguel-NextJs" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" >
+>   <img align="center" alt="Miguel-Python" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
+>   <img align="center" alt="Miguel-Django" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg">
+>   <img align="center" alt="Miguel-C#" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+>   <img align="center" alt="Miguel-.NET" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg">
+>   <img align="center" alt="Miguel-PHP" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+>   <img align="center" alt="Miguel-Laravel" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg">
+>   <img align="center" alt="Miguel-MySQL" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+>   <img align="center" alt="Miguel-React" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
+>   <img align="center" alt="Miguel-Bootstrap" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
+>   <img align="center" alt="Miguel-GitHub" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg">
+>   <img align="center" alt="Miguel-Java" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
+>   <img align="center" alt="Miguel-Android" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg">
+>   <img align="center" alt="Miguel-Kotlin" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg">
+>   
+>   <hr >
+>
+>   ![meu banner](https://github.com/MiguelBritoBarbosa/MiguelBritoBarbosa/assets/107328582/d61b5816-d0b5-4b85-a16a-10eb51633584)
+> 
+> </div>
 
   ##
   
