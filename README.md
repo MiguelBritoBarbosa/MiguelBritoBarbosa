@@ -2,7 +2,7 @@
 
 
 - 💎 Desenvolvedor Full-Stack.
-- 💻 Estudo TypeScript, NextJs, Python, Django, C#, .NET, PHP, Laravel, Wordpress,ReactJs,
+- 💻 Estudo TypeScript, NextJs, Python, Django, C#, .NET, PHP, Laravel, Wordpress, ReactJs,
 HTML, CSS, Bootstrap, MySQL, Java, Desenvolvimento Android com Kotlin, e Git/GitHub.
 ##
 
@@ -17,21 +17,11 @@ HTML, CSS, Bootstrap, MySQL, Java, Desenvolvimento Android com Kotlin, e Git/Git
 > [!TIP]
 > 
 > <div style="display: inline_block; background-color: '#ffffff`"><br>
->   <img align="center" alt="Miguel-Ts" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
->   <img align="center" alt="Miguel-NextJs" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" >
->   <img align="center" alt="Miguel-Python" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
->   <img align="center" alt="Miguel-Django" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg">
->   <img align="center" alt="Miguel-C#" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
->   <img align="center" alt="Miguel-.NET" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg">
->   <img align="center" alt="Miguel-PHP" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
->   <img align="center" alt="Miguel-Laravel" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg">
->   <img align="center" alt="Miguel-MySQL" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
->   <img align="center" alt="Miguel-React" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
->   <img align="center" alt="Miguel-Bootstrap" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
->   <img align="center" alt="Miguel-GitHub" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg">
->   <img align="center" alt="Miguel-Java" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
->   <img align="center" alt="Miguel-Android" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg">
->   <img align="center" alt="Miguel-Kotlin" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg">
+>   <p align="center">
+>     <a href="https://miguelbritobarbosa.com.br/tecnologias">
+>       <img src="https://skillicons.dev/icons?i=ts,nextjs,python,django,cs,dotnet,php,laravel,wordpress,react,html,css,bootstrap,mysql,java,androidstudio,kotlin,git,github" alt="Linguagens"/>
+>     </a>
+>   </p>
 >   
 >   <hr >
 >
