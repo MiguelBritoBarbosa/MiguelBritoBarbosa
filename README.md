@@ -24,9 +24,9 @@ HTML, CSS, Bootstrap, MySQL, Java, Desenvolvimento Android com Kotlin, e Git/Git
 >   </p>
 >   
 >   <hr >
->
->   ![meu banner](https://github.com/MiguelBritoBarbosa/MiguelBritoBarbosa/assets/107328582/d61b5816-d0b5-4b85-a16a-10eb51633584)
-> 
+>   <a href="https://miguelbritobarbosa.com.br/">
+>      <img src="https://github.com/MiguelBritoBarbosa/MiguelBritoBarbosa/assets/107328582/d61b5816-d0b5-4b85-a16a-10eb51633584" />
+>   </a>
 > </div>
 
   ##
