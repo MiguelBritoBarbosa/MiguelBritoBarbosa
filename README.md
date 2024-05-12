@@ -2,7 +2,7 @@
 
 
 - 💎 Desenvolvedor Full-Stack.
-- 💻 Estudo TypeScript, NextJs, Python, Django, C#, .NET, PHP, Laravel, ReactJs,
+- 💻 Estudo TypeScript, NextJs, Python, Django, C#, .NET, PHP, Laravel, Wordpress,ReactJs,
 HTML, CSS, Bootstrap, MySQL, Java, Desenvolvimento Android com Kotlin, e Git/GitHub.
 ##
 
