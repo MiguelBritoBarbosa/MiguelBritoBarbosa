@@ -19,7 +19,7 @@ HTML, CSS, Bootstrap, MySQL, Java, Desenvolvimento Android com Kotlin, e Git/Git
 > <div style="display: inline_block; background-color: '#ffffff`"><br>
 >   <p align="center">
 >     <a href="https://miguelbritobarbosa.com.br/projetos">
->       <img src="https://skillicons.dev/icons?i=ts,nextjs,python,django,cs,dotnet,php,laravel,wordpress,react,html,css,bootstrap,mysql,java,androidstudio,kotlin,git,github" alt="Linguagens"/>
+>       <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,nextjs,python,django,php,laravel,wordpress,react,html,css,bootstrap,mysql,java,androidstudio,kotlin,git,github,azure" alt="Linguagens"/>
 >     </a>
 >   </p>
 >   
